@@ -16,6 +16,7 @@ Passionné par le développement web full-stack, je suis en 2e année de BTS SIO
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 ---
 
@@ -42,16 +43,6 @@ Développement e-commerce full-stack en autonomie complète
 
 ---
 
-## Stats GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=G-HNX&layout=compact&hide_border=true&theme=dark&count_private=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-HNX&layout=compact&hide_border=true&theme=default&count_private=true&langs_count=8" alt="Langages les plus utilisés" />
-  </picture>
-</p>
-
----
 
 ## Contact
 
