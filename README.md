@@ -46,13 +46,8 @@ Développement e-commerce full-stack en autonomie complète
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=G-HNX&show_icons=true&hide_border=true&theme=dark&count_private=true&cache_seconds=3600" />
-    <img src="https://github-readme-stats.vercel.app/api?username=G-HNX&show_icons=true&hide_border=true&theme=default&count_private=true&cache_seconds=3600" alt="Stats GitHub" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=G-HNX&layout=compact&hide_border=true&theme=dark&cache_seconds=3600" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-HNX&layout=compact&hide_border=true&theme=default&cache_seconds=3600" alt="Langages les plus utilisés" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=G-HNX&theme=dark&hide_border=true&locale=fr" />
+    <img src="https://streak-stats.demolab.com/?user=G-HNX&theme=default&hide_border=true&locale=fr" alt="Stats GitHub" />
   </picture>
 </p>
 
