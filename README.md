@@ -26,8 +26,7 @@ Passionné par le développement web full-stack, je suis en 2e année de BTS SIO
 | **Château de Belleville** | Site e-commerce complet — stage BTS SIO | Symfony 7, Stripe, PHPUnit | [chateaudebelleville.fr](https://chateaudebelleville.fr) |
 | **Iron Veil** | Jeu narratif sci-fi textuel (~25k–35k mots) — projet perso | Godot, ink | — |
 | **Portfolio** | Portfolio développeur & freelance | Symfony, React | [gabriel-heneaux.fr](https://gabriel-heneaux.fr) |
-| **Cabinet Martin** | Application de gestion — projet BTS SIO | *(à compléter)* | — |
-| **ECP** | Projet BTS SIO | *(à compléter)* | — |
+| **Cabinet Martin** | Application de gestion — projet BTS SIO | C#, WinUI 3, Symfony, Twig | — |
 | **Project Frame** | Site photo cadeau pour un proche | Symfony 7, React 18, SQLite | — |
 | **Isaac** | Assistant IA self-hosted | Claude API, Docker, Tailscale, Telegram | — |
 
@@ -46,9 +45,15 @@ Développement e-commerce full-stack en autonomie complète
 ## Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G-HNX&show_icons=true&hide_border=true&theme=default" alt="Stats GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=G-HNX&show_icons=true&hide_border=true&theme=dark&count_private=true&cache_seconds=3600" />
+    <img src="https://github-readme-stats.vercel.app/api?username=G-HNX&show_icons=true&hide_border=true&theme=default&count_private=true&cache_seconds=3600" alt="Stats GitHub" />
+  </picture>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-HNX&layout=compact&hide_border=true&theme=default" alt="Langages les plus utilisés" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=G-HNX&layout=compact&hide_border=true&theme=dark&cache_seconds=3600" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-HNX&layout=compact&hide_border=true&theme=default&cache_seconds=3600" alt="Langages les plus utilisés" />
+  </picture>
 </p>
 
 ---
