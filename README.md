@@ -23,7 +23,7 @@
 final class Gabriel extends Developpeur
 {
     public string $role      = 'Développeur backend PHP / Symfony';
-    public string $formation = 'Licence Pro (après un BTS SIO SLAM)';
+    public string $formation = 'Licence Pro Applications Web, Angers';
     public string $base      = 'Laval, Pays de la Loire';
 
     /** De la première ligne de code à la production, un seul interlocuteur. */
@@ -165,7 +165,7 @@ E-commerce Symfony, API REST **Spring Boot** et backoffice mobile **Flutter** qu
 + 2025 · Stage — Saint-Gobain GDI (Courbevoie)
 !        Automatisation de tests ServiceNow ATF · JavaScript · Scrum en équipe internationale
 
-+ 2026 → Licence Pro — en cours
++ 2026 → Licence Pro Applications Web — Angers (en cours)
 + 2024 → 2026 · BTS SIO option SLAM — Lycée Douanier Rousseau, Laval
 ```
 
