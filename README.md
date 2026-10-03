@@ -24,7 +24,7 @@ final class Gabriel extends Developpeur
 {
     public string $role      = 'Développeur backend PHP / Symfony';
     public string $formation = 'Licence Pro Applications Web, Angers';
-    public string $base      = 'Laval, Pays de la Loire';
+    public string $base      = 'Angers, Pays de la Loire';
 
     /** De la première ligne de code à la production, un seul interlocuteur. */
     public array $jeSais = ['concevoir', 'développer', 'tester', 'déployer'];
