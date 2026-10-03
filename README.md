@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4561A,100:E87A30&height=190&section=header&text=Gabriel%20H%C3%A9neaux&fontColor=FFF8F2&fontSize=58&fontAlignY=36&desc=D%C3%A9veloppeur%20backend%20%C2%B7%20PHP%20%2F%20Symfony&descAlignY=58&descSize=18&animation=fadeIn" alt="Gabriel Héneaux — Développeur backend PHP / Symfony" width="100%" />
 
 <a href="https://gabriel-heneaux.fr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=D96820&center=true&vCenter=true&width=560&lines=Du+cahier+des+charges+%C3%A0+la+mise+en+ligne+%E2%9C%B6;Symfony+%C2%B7+Doctrine+%C2%B7+Stripe+%C2%B7+EasyAdmin;Back-end+robuste%2C+code+test%C3%A9%2C+livr%C3%A9+avec+soin;Et+parfois+du+Flutter%2C+du+C%23+ou+du+Java" alt="Du cahier des charges à la mise en ligne" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=D96820&center=true&vCenter=true&width=560&lines=En+recherche+de+stage+%C2%B7+dispo+en+freelance+%E2%9C%B6;Du+cahier+des+charges+%C3%A0+la+mise+en+ligne+%E2%9C%B6;Symfony+%C2%B7+Doctrine+%C2%B7+Stripe+%C2%B7+EasyAdmin;Back-end+robuste%2C+code+test%C3%A9%2C+livr%C3%A9+avec+soin;Et+parfois+du+Flutter%2C+du+C%23+ou+du+Java" alt="Du cahier des charges à la mise en ligne" />
 </a>
 
 <br/>
 
 <a href="https://gabriel-heneaux.fr"><img src="https://img.shields.io/badge/Portfolio-gabriel--heneaux.fr-C4561A?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/gabriel-heneaux-14a1582ab/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20H%C3%A9neaux-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.malt.fr/profile/gabrielheneaux"><img src="https://img.shields.io/badge/Malt-Freelance-FC5757?style=for-the-badge&logo=malt&logoColor=white" alt="Malt" /></a>
+<a href="https://www.malt.fr/profile/gabrielheneaux"><img src="https://img.shields.io/badge/Malt-Freelance%20dispo-FC5757?style=for-the-badge&logo=malt&logoColor=white" alt="Malt" /></a>
 <a href="mailto:gabriel.heneaux@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20contacter-131009?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -23,7 +23,7 @@
 final class Gabriel extends Developpeur
 {
     public string $role      = 'Développeur backend PHP / Symfony';
-    public string $formation = 'BTS SIO option SLAM';
+    public string $formation = 'Licence Pro (après un BTS SIO SLAM)';
     public string $base      = 'Laval, Pays de la Loire';
 
     /** De la première ligne de code à la production, un seul interlocuteur. */
@@ -31,7 +31,7 @@ final class Gabriel extends Developpeur
 
     public function statut(): string
     {
-        return 'Ouvert aux opportunités — alternance, freelance, projets 🤝';
+        return 'En recherche de stage · disponible en freelance 🤝';
     }
 }
 ```
@@ -151,9 +151,7 @@ E-commerce Symfony, API REST **Spring Boot** et backoffice mobile **Flutter** qu
 |:-:|---|---|---|
 | 🐾 | **Tailfeed** | SaaS de pension animale : les propriétaires reçoivent chaque jour photos et nouvelles de leur animal | Symfony, Resend, S3, Stripe |
 | 🌙 | **Nuit de l'Info 2025** | *Village Numérique Résistant* — plateforme sur la sobriété numérique, codée en équipe en une nuit | Symfony |
-| 🛰️ | **Iron Veil** | Jeu narratif sci-fi textuel (~25 000 à 35 000 mots) | Godot, ink |
-| 🤖 | **Isaac** | Assistant IA self-hosted, piloté depuis Telegram | Claude API, Docker, Tailscale |
-| 🖼️ | **Project Frame** | Site photo offert à un proche | Symfony 7, React 18, SQLite |
+| 🤖 | **Isaac** | Agent IA personnel basé sur OpenClaw, self-hosted et piloté depuis Telegram | OpenClaw, Docker, Tailscale |
 | 🖥️ | **Serveur maison** | Homelab Debian + Docker : médiathèque, DNS filtrant, apps Symfony | Debian, Docker |
 
 </details>
@@ -167,7 +165,8 @@ E-commerce Symfony, API REST **Spring Boot** et backoffice mobile **Flutter** qu
 + 2025 · Stage — Saint-Gobain GDI (Courbevoie)
 !        Automatisation de tests ServiceNow ATF · JavaScript · Scrum en équipe internationale
 
-+ 2024 → BTS SIO option SLAM — Lycée Douanier Rousseau, Laval
++ 2026 → Licence Pro — en cours
++ 2024 → 2026 · BTS SIO option SLAM — Lycée Douanier Rousseau, Laval
 ```
 
 <div align="center">
